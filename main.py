@@ -10,4 +10,4 @@ for char in string:
     if char in vowel_letters:
         count += 1
 #Выводим количество гласных букв
-print("Количество гласных букв:", count)
+print("Количество гласных букв в строке равно", count)
